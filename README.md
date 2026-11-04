@@ -5,7 +5,13 @@
 **GatosPiuPiu Deluxe** es un frenético juego de disparos arcade (*top-down shooter*) desarrollado en **Pygame** y portado para ejecutarse en la web mediante **HTML5/Canvas**. Concebido y estructurado con el apoyo del modelo de IA **Claude**, el juego combina mecánicas clásicas de *bullet hell* y *roguelite* con una dirección de arte enfocada en michis armados hasta los dientes.
 
 ---
+🚀 ¡Juega Ahora Mismo!
 
+¡No necesitas instalar nada para empezar a disparar! Puedes jugar a GatosPiuPiu Deluxe directamente desde tu navegador a través de GitHub Pages:
+
+👉 https://loepoldoo.github.io/GatosPiuPiu-Deluxe/ 👈
+
+---
 ## 📸 Vista Previa y Concepto
 
 En **GatosPiuPiu Deluxe**, tomas el control de uno de los 5 gatos con habilidades únicas para enfrentarte a hordas implacables de ratones, perros, erizos, búhos y colosales jefes finales. Explora biomas, desbloquea armas en el cofre misterioso, mejora tus atributos en el árbol de habilidades y activa la **Fiebre Felina** para desatar la máxima destrucción.
