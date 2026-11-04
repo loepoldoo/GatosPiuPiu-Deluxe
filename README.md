@@ -100,7 +100,7 @@ GatosPiuPiu-Deluxe/
 
 ## 🤖 Créditos y Co-Creación
 
-- **Concepto y Diseño Original**: Creado por amantes de los gatos y los shooters retro.
+- **Concepto y Diseño Original**: Creado por amantes de los gatos (Leonardo Peltz Macias) y los shooters retro.
 - **Desarrollo y Asistencia de IA**: Co-diseñado con la **Mano de Claude**, optimizando la arquitectura del *game loop*, algoritmos de colisión, patrones de ataque de los jefes e implementación de audio en tiempo real con la Web Audio API.
 
 ---
